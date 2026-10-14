@@ -1,0 +1,151 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "C:\\Users\\bjsek\\OneDrive\\Desktop\\Desktop\\CAD\\KiCad Projects\\10_LED_module_smd\\10_LED_module.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R2",
+                "x_position": 151.13,
+                "y_position": 71.12,
+                "rotation": 0
+            },
+            {
+                "reference": "R8",
+                "x_position": 151.13,
+                "y_position": 93.98,
+                "rotation": 0
+            },
+            {
+                "reference": "LED3",
+                "x_position": 161.29,
+                "y_position": 74.93,
+                "rotation": 0
+            },
+            {
+                "reference": "R5",
+                "x_position": 151.13,
+                "y_position": 82.55,
+                "rotation": 0
+            },
+            {
+                "reference": "LED4",
+                "x_position": 161.29,
+                "y_position": 78.74,
+                "rotation": 0
+            },
+            {
+                "reference": "R10",
+                "x_position": 151.13,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 193.04,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 187.96,
+                "y_position": 73.66,
+                "rotation": 270
+            },
+            {
+                "reference": "R6",
+                "x_position": 151.13,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "LED2",
+                "x_position": 161.29,
+                "y_position": 71.12,
+                "rotation": 0
+            },
+            {
+                "reference": "R4",
+                "x_position": 151.13,
+                "y_position": 78.74,
+                "rotation": 0
+            },
+            {
+                "reference": "LED10",
+                "x_position": 161.29,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "LED1",
+                "x_position": 161.29,
+                "y_position": 67.31,
+                "rotation": 0
+            },
+            {
+                "reference": "R9",
+                "x_position": 151.13,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "LED7",
+                "x_position": 161.29,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "LED5",
+                "x_position": 161.29,
+                "y_position": 82.55,
+                "rotation": 0
+            },
+            {
+                "reference": "LED9",
+                "x_position": 161.29,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 146.05,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "LED8",
+                "x_position": 161.29,
+                "y_position": 93.98,
+                "rotation": 0
+            },
+            {
+                "reference": "LED6",
+                "x_position": 161.29,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "R3",
+                "x_position": 151.13,
+                "y_position": 74.93,
+                "rotation": 0
+            },
+            {
+                "reference": "R7",
+                "x_position": 151.13,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "R1",
+                "x_position": 151.13,
+                "y_position": 67.31,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    }
+]
