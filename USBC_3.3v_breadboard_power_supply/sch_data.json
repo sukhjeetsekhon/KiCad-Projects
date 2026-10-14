@@ -1,0 +1,145 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "C:/Users/bjsek/OneDrive/Desktop/Desktop/CAD/KiCad Projects/10_LED_module_smd/USBC_3.3v_breadboard_power_supply/USBC_3.3v_breadboard_power_supply.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "#PWR04",
+                "x_position": 116.84,
+                "y_position": 166.37,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR05",
+                "x_position": 113.03,
+                "y_position": 114.3,
+                "rotation": 270
+            },
+            {
+                "reference": "C2",
+                "x_position": 107.95,
+                "y_position": 124.46,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR014",
+                "x_position": 129.54,
+                "y_position": 88.9,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR07",
+                "x_position": 99.06,
+                "y_position": 119.38,
+                "rotation": 90
+            },
+            {
+                "reference": "USB1",
+                "x_position": 123.19,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "CN1",
+                "x_position": 106.68,
+                "y_position": 88.9,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR011",
+                "x_position": 139.7,
+                "y_position": 88.9,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR08",
+                "x_position": 113.03,
+                "y_position": 116.84,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR013",
+                "x_position": 101.6,
+                "y_position": 88.9,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR012",
+                "x_position": 111.76,
+                "y_position": 88.9,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR03",
+                "x_position": 116.84,
+                "y_position": 158.75,
+                "rotation": 90
+            },
+            {
+                "reference": "C1",
+                "x_position": 135.89,
+                "y_position": 124.46,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 129.54,
+                "y_position": 151.13,
+                "rotation": 180
+            },
+            {
+                "reference": "U1",
+                "x_position": 124.46,
+                "y_position": 116.84,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR09",
+                "x_position": 135.89,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR06",
+                "x_position": 135.89,
+                "y_position": 116.84,
+                "rotation": 270
+            },
+            {
+                "reference": "LED1",
+                "x_position": 99.06,
+                "y_position": 134.62,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR010",
+                "x_position": 107.95,
+                "y_position": 139.7,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 129.54,
+                "y_position": 173.99,
+                "rotation": 0
+            },
+            {
+                "reference": "CN2",
+                "x_position": 134.62,
+                "y_position": 88.9,
+                "rotation": 90
+            },
+            {
+                "reference": "R1",
+                "x_position": 99.06,
+                "y_position": 124.46,
+                "rotation": 270
+            }
+        ],
+        "sheet_files": []
+    }
+]
